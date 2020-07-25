@@ -1,5 +1,46 @@
+.Choose{ font-size: 50px; color: aqua; text-align: center; }
+
+.FileUp{ color: white; font-size: 23px; text-align: center; }
+
+.ChooseFile{ padding: 10px 10px 10px 10px; font-size: xx-large; margin-left: 27%; background-color: aquamarine;}
+
+.FileDetails{ text-align: center; font-size: x-large; color: #f7f7f7;}
+
+.phph { text-align: center; color: aqua; font-size: 22px; }
+/*
+@keyframes coloring {
+
+  0% {
+      color: rgb(226, 47, 47);
+  }
+  50%{
+      color: rgb(133, 0, 221);
+  }
+  100%{
+      color: rgb(6, 231, 201);
+  }
+}
+*/
+.befo { font-size: xx-large; text-align: center; color: aqua; }
+
+*{ background-color: #282c34;}
+
+.image{width: 250px; height: 250px; margin-left: 50px;}  
+
+/*.btn{position: absolute; margin-left: -50px;
+  background-color: bisque;
+  color: rgb(0, 89, 255);
+  width: 50px;
+  height: 40px;
+  }
+*/
+
+
+
+
 .App {
   text-align: center;
+
 }
 
 .App-logo {
